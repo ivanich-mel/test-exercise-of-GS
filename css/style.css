@@ -1,0 +1,16 @@
+form{
+    width: 500px;
+}
+.error{
+    color: red;
+}
+.closeForm{
+    font-weight: bold;
+    font-size: large;
+    margin: 300px;
+}
+.btn-sucсses{
+    background: #778899;
+}
+
+
